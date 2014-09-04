@@ -2,4 +2,4 @@
 
 Google Chrome Extension that leaves Grooveshark stop playing.
 
-[Install here]()
+[Install here (soon)]()
