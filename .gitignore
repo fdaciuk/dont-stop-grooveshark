@@ -1,0 +1,4 @@
+.DS_Store
+__MACOSX/*
+*.sublime-project
+*.sublime-workspace
