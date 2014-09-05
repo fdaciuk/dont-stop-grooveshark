@@ -23,7 +23,7 @@ Google Chrome Extension that leaves Grooveshark stop playing.
 ----
 ----
 
-### 4) Load this extension, clicking **Load unpacked extension...**:
+### 4) Load this extension, clicking **Load unpacked extension...** and select **dont-stop-grooveshark** directory (unziped):
 ![](https://raw.githubusercontent.com/fdaciuk/dont-stop-grooveshark/master/install-images/04-load-extension.png)
 
 ----
