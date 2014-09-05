@@ -37,4 +37,4 @@ Google Chrome Extension that leaves Grooveshark stop playing.
 
 ## License
 
-[See license here](https://github.com/fdaciuk/dont-stop-grooveshark/master/LICENSE.md)
+[See license here](https://github.com/fdaciuk/dont-stop-grooveshark/blob/master/LICENSE.md)
