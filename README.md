@@ -1,6 +1,6 @@
 # Don't stop Grooveshark
 
-Google Chrome Extension that leaves Grooveshark stop playing.
+Google Chrome Extension that don't leaves Grooveshark stop playing.
 
 ## Installation
 

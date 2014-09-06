@@ -2,7 +2,7 @@
   "name": "Don't stop Grooveshark",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Google Chrome Extension that leaves Grooveshark stop playing.",
+  "description": "Google Chrome Extension that don't leaves Grooveshark stop playing.",
   "icons" : {
     "16" : "icon128.png",
     "48" : "icon128.png",
