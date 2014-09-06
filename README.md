@@ -2,6 +2,8 @@
 
 Google Chrome Extension that don't leaves Grooveshark stop playing.
 
+> Coming soon on Chrome Webstore
+
 ## Installation
 
 #### 1) Download this extension clicking at **Download ZIP**, and unzip it:
