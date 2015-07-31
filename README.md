@@ -4,4 +4,4 @@
 
 ## Grooveshark is gone [#RIPGrooveshark](http://grooveshark.com/) :(
 
-> ~~[or don't](http://grooveshark.im/)~~
+> ~~[or not](http://grooveshark.im/)~~
