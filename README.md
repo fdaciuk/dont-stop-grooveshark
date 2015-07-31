@@ -3,3 +3,5 @@
 > Google Chrome Extension that doesn't leave Grooveshark stop playing.
 
 ## Grooveshark is gone [#RIPGrooveshark](http://grooveshark.com/) :(
+
+> ~~[or don't](http://grooveshark.im/)~~
